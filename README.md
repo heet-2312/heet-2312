@@ -4,7 +4,7 @@
  </h1>
 <p> I'm a MERN stack developer making awesome web apps.I'm an enthusiastic learner and like to explore and learn new things. I'm currently learning docker and k8s and want to soon begin the journey of machine learning. </p>
 
-[![Heet's github stats](https://github-readme-stats.vercel.app/api?username=heet-2312)](https://github.com/anuraghazra/github-readme-stats)
+[![Heet's github stats](https://github-readme-stats.vercel.app/api?username=heet-2312&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
