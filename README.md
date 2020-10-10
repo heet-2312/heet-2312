@@ -7,8 +7,6 @@
 [![Heet's github stats](https://github-readme-stats.vercel.app/api?username=heet-2312&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on College-mania(A central store for pdfs and files)
 - 🌱 I’m currently learning docker and kubernetes
 - 👯 I’m looking to collaborate on anything and work on opensource projects
